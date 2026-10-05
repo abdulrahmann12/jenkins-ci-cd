@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo 'Code pulled successfully from GitHub! 🌐'
                 echo 'hello from github'
+                echo 'Webhook is working!
             }
         }
     }
